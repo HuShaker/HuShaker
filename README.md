@@ -5,7 +5,7 @@ data-target="animated-image.originalImage"> -->
 <h1 align="center">Hi 👋, I'm Hussein Abdullah</h1>
 <h3 align="center">A passionate RPA Developer from Egypt</h3>
 
-- 🔭 I’m currently working on **RPA Project (UiPath)**
+- 🔭 I’m currently working on **My Portfolio Website**
 
 - 🌱 I’m currently learning **Node.js, AWS, Microsoft Power Automate**
 
