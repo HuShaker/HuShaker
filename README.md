@@ -1,5 +1,5 @@
 
-<img src="[pic_trulli.jpg](https://discord.com/channels/1086835461869281380/1086835461869281383/1088294978389819543)">
+<img src="https://discord.com/channels/1086835461869281380/1086835461869281383/1088294978389819543">
 <!--------------------------------------------------------------------------->
 <h1 align="center">Hi 👋, I'm Hussein Abdullah</h1>
 <h3 align="center">A passionate RPA Developer from Egypt</h3>
