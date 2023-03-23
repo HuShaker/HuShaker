@@ -1,6 +1,9 @@
 
 <!-- <img src="https://raw.githubusercontent.com/HuShaker/HuShaker/main/HeroImg.gif" style="width: 100px; max-width: 100%; display: inline-block;" 
 data-target="animated-image.originalImage"> -->
+
+<img src="https://raw.githubusercontent.com/HuShaker/HuShaker/main/HeroImg.gif" alt="Hello 👋" style="width:1000px;"/>
+
 <!--------------------------------------------------------------------------->
 <h1 align="center">Hi 👋, I'm Hussein Abdullah Shaker</h1>
 <h3 align="center">A passionate RPA Developer from Egypt</h3>
