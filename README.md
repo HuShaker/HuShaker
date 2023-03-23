@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/HuShaker/HuShaker/main/HeroImg.gif" style="width: 100px; max-width: 100%; display: inline-block;" 
 data-target="animated-image.originalImage"> -->
 <!--------------------------------------------------------------------------->
-<h1 align="center">Hi 👋, I'm Hussein Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Hussein Abdullah Shaker</h1>
 <h3 align="center">A passionate RPA Developer from Egypt</h3>
 
 - 🔭 I’m currently working on **My Portfolio Website**
