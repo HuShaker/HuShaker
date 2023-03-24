@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **Node.js, AWS, Microsoft Power Automate**
+- 🌱 I’m currently learning **Node.js, Microsoft Power Automate**
+
+- I experienced in **UiPath, AWS, Agile SCRUM, Problem Solving, **
 
 - 📫 How to reach me **hushaker.dev@gmail.com**
 
