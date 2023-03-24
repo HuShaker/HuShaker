@@ -21,7 +21,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuShaker&theme=react)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HuShaker&theme=react) -->
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
