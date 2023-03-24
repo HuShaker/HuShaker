@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js, Microsoft Power Automate**
 
-- I experienced in **UiPath, AWS, Agile SCRUM, Problem Solving, CircleCI**
+- I experienced in **UiPath, AWS, Agile SCRUM, Problem Solving, CircleCI,...**
 
 - 📫 How to reach me **hushaker.dev@gmail.com**
 
